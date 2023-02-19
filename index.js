@@ -10,3 +10,5 @@ app.use('/', router)
 app.listen(app.get('port'), () => {
     console.log(`GitHub Data API - Port ${app.get('port')}`)
 })
+
+export default app

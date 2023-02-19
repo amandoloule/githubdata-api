@@ -10,3 +10,4 @@ An API that fetches data from GitHub API.
 - nodemon 2.0.20
 
 Run: `npm start`
+Test: `mocha`
